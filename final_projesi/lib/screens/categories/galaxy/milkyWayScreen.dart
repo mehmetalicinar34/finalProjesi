@@ -47,7 +47,7 @@ class MilkyWayScreen extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    'Spiral Galaxy Information',
+                    'Milky Way Galaxy Information',
                     style: TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
@@ -58,13 +58,13 @@ class MilkyWayScreen extends StatelessWidget {
                   Divider(color: Color.fromARGB(255, 73, 78, 128)),
                   SizedBox(height: 8),
                   InfoRow(
-                    title: 'Distance from Earth:',
-                    value: 'Billions of light-years',
+                    title: 'Distance from Earth to the center:',
+                    value: '25,800 light-years',
                   ),
                   SizedBox(height: 5),
                   InfoRow(
-                    title: 'Diameter:',
-                    value: '100,000 to 200,000 light-years',
+                    title: 'Radius:',
+                    value: '52,850 light years',
                   ),
                   SizedBox(height: 5),
                   InfoRow(
@@ -74,12 +74,12 @@ class MilkyWayScreen extends StatelessWidget {
                   SizedBox(height: 5),
                   InfoRow(
                     title: 'Age:',
-                    value: 'Billions of years',
+                    value: '13.61 billion years',
                   ),
                   SizedBox(height: 5),
                   InfoRow(
                     title: 'Stars:',
-                    value: 'Hundreds of billions',
+                    value: '100 billion',
                   ),
                 ],
               ),

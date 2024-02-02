@@ -16,7 +16,6 @@ import 'package:final_projesi/screens/categories/nebula/crabScreen.dart';
 import 'package:final_projesi/screens/categories/nebula/helixScreen.dart';
 import 'package:final_projesi/screens/categories/nebula/nebulaScreen.dart';
 import 'package:final_projesi/screens/categories/nebula/orionScreen.dart';
-import 'package:final_projesi/screens/categories/pulsar/pulsarScreen.dart';
 import 'package:final_projesi/screens/categories/solarSystem/earthScreen.dart';
 import 'package:final_projesi/screens/categories/solarSystem/jupiterScreen.dart';
 import 'package:final_projesi/screens/categories/solarSystem/marsScreen.dart';
@@ -67,7 +66,6 @@ class MyApp extends StatelessWidget {
         '/nebula': (context) => NebulaScreen(),
         '/blackhole': (context) => BlackHoleScreen(),
         '/star': (context) => StarScreen(),
-        '/pulsar': (context) => PulsarScreen(),
         '/sun': (context) => SunScreen(),
         '/mercury': (context) => MercuryScreen(),
         '/venus': (context) => VenusScreen(),

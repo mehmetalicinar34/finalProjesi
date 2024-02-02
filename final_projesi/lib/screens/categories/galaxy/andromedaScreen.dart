@@ -55,21 +55,21 @@ class AndromedaScreen extends StatelessWidget {
                     style: TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
-                      color: Color.fromARGB(255, 31, 32, 37), // You can customize the color
+                      color: Color.fromARGB(255, 31, 32, 37),
                     ),
                   ),
                   SizedBox(height: 8),
                   Divider(
-                      color: Color.fromARGB(255, 31, 32, 37)), // You can customize the color
+                      color: Color.fromARGB(255, 31, 32, 37)),
                   SizedBox(height: 8),
                   InfoRow(
                     title: 'Distance from Earth:',
-                    value: 'Billions of light-years',
+                    value: '2.537 million light years',
                   ),
                   SizedBox(height: 5),
                   InfoRow(
-                    title: 'Diameter:',
-                    value: '100,000 to 200,000 light-years',
+                    title: 'Radius:',
+                    value: '110,000 light years',
                   ),
                   SizedBox(height: 5),
                   InfoRow(
@@ -79,12 +79,12 @@ class AndromedaScreen extends StatelessWidget {
                   SizedBox(height: 5),
                   InfoRow(
                     title: 'Age:',
-                    value: 'Billions of years',
+                    value: '10 billion years',
                   ),
                   SizedBox(height: 5),
                   InfoRow(
                     title: 'Stars:',
-                    value: 'Hundreds of billions',
+                    value: '1 trillion',
                   ),
                 ],
               ),
