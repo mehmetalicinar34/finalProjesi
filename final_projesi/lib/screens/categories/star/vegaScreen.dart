@@ -31,7 +31,6 @@ class VegaScreen extends StatelessWidget {
               ),
             ),
             SizedBox(height: 16),
-            // Information about Vega using the InfoRow widget
             Container(
               margin: EdgeInsets.symmetric(horizontal: 16, vertical: 8),
               padding: EdgeInsets.all(12),

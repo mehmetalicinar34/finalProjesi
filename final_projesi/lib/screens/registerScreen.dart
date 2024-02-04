@@ -49,7 +49,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
             ElevatedButton(
               onPressed: () async {
                 await registerUser();
-                Navigator.pop(context); // Navigate back to the previous screen
+                Navigator.pop(context);
               },
               child: Text('Register'),
             ),

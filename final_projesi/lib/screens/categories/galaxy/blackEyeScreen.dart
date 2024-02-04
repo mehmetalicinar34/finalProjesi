@@ -31,7 +31,6 @@ class BlackEyeScreen extends StatelessWidget {
               ),
             ),
             SizedBox(height: 16),
-            // Information about Black Eye Galaxy using the InfoRow widget
             Container(
               margin: EdgeInsets.symmetric(horizontal: 16, vertical: 8),
               padding: EdgeInsets.all(12),
@@ -121,7 +120,7 @@ class InfoRow extends StatelessWidget {
               style: TextStyle(
                 fontSize: 18,
                 fontWeight: FontWeight.bold,
-                color: Color.fromARGB(255, 68, 44, 24), // You can customize the color
+                color: Color.fromARGB(255, 68, 44, 24),
               ),
             ),
           ],

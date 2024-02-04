@@ -10,7 +10,7 @@ class MilkyWayScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('Milky Way Galaxy'),
-        backgroundColor: Color.fromARGB(255, 73, 78, 128), // You can customize the color
+        backgroundColor: Color.fromARGB(255, 73, 78, 128),
       ),
       body: SingleChildScrollView(
         child: Column(
@@ -27,7 +27,6 @@ class MilkyWayScreen extends StatelessWidget {
               ),
             ),
             SizedBox(height: 16),
-            // Information about Milky Way Galaxy using the InfoRow widget
             Container(
               margin: EdgeInsets.symmetric(horizontal: 16, vertical: 8),
               padding: EdgeInsets.all(12),

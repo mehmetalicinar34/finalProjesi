@@ -15,6 +15,7 @@ class HomeScreen extends StatelessWidget {
       drawer: Drawer(
         child: Column(
           children: [
+            SizedBox(height: 100),
             _DrawerButton(context, 'Profile', '/profile'),
             Divider(),
             _DrawerButton(context, 'Contact', '/contact'),
@@ -77,8 +78,8 @@ class HomeScreen extends StatelessWidget {
   Widget _DrawerButton(BuildContext context, String label, String route) {
     return InkWell(
       onTap: () {
-        Navigator.pop(context); // Close the drawer
-        Navigator.pushNamed(context, route); // Navigate to the specified route
+        Navigator.pop(context);
+        Navigator.pushNamed(context, route);
       },
       child: Container(
         padding: EdgeInsets.symmetric(vertical: 16, horizontal: 20),

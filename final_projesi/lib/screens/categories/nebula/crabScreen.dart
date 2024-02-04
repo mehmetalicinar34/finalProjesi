@@ -31,7 +31,6 @@ class CrabScreen extends StatelessWidget {
               ),
             ),
             SizedBox(height: 16),
-            // Information about Crab Nebula using the InfoRow widget
             Container(
               margin: EdgeInsets.symmetric(horizontal: 16, vertical: 8),
               padding: EdgeInsets.all(12),
@@ -99,7 +98,7 @@ class InfoRow extends StatelessWidget {
           style: TextStyle(
             fontSize: 18,
             fontWeight: FontWeight.bold,
-            color: Color.fromARGB(255, 108, 46, 148), // You can customize the color
+            color: Color.fromARGB(255, 108, 46, 148),
           ),
         ),
       ],
