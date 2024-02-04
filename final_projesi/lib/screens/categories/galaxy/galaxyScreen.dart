@@ -9,7 +9,7 @@ class GalaxyScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Galaxy Screen'),
+        title: Text('Galaxies'),
       ),
       body: SingleChildScrollView(
         padding: EdgeInsets.all(8.0),

@@ -8,7 +8,7 @@ class SolarSystemScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Solar System Screen'),
+        title: Text('Solar System'),
       ),
       body: SingleChildScrollView(
         padding: EdgeInsets.all(8.0),

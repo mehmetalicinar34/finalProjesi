@@ -9,7 +9,7 @@ class NebulaScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Nebula Screen'),
+        title: Text('Nebulas'),
       ),
       body: SingleChildScrollView(
         padding: EdgeInsets.all(8.0),

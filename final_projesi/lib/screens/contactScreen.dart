@@ -50,7 +50,7 @@ class _ContactScreenState extends State<ContactScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Contact Screen"),
+        title: Text("Contact Us"),
       ),
       body: SafeArea(
         child: Center(

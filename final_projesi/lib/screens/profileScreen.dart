@@ -32,7 +32,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("Profile Screen"),
+        title: Text("Profile"),
       ),
       body: Row(
         mainAxisAlignment: MainAxisAlignment.center,

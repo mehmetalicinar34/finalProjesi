@@ -9,7 +9,7 @@ class BlackHoleScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Black Hole Screen'),
+        title: Text('Black Holes'),
       ),
       body: SingleChildScrollView(
         padding: EdgeInsets.all(8.0),
