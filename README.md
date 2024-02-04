@@ -45,6 +45,64 @@
 
 
 
+# Black Hole Screen
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/038bbd97-a3c8-4d37-8c16-00202b78ca98" height="250" >
+
+## Black Holes
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/ab27500c-0910-4787-a63f-9ea2cff0b107" height="250" >
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/26d34c66-55a5-4143-bb88-6545e7f9d3ec" height="250" >
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/61d71871-683e-49df-be27-2d0afb12552e" height="250" >
+
+
+# Galaxy Screen
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/29870b66-3cee-48a7-9acb-45a648ab3ea0" height="250" >
+
+## Galaxies
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/9e732002-a6a0-425e-b0b8-995d8e076404" height="250" >
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/0b89ebc6-a101-4d96-bca0-3bfe38c253cb" height="250" >
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/aa3b756b-8e0f-45a2-aa79-b58227242326" height="250" >
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/e05b9ae7-1bd6-4394-ab07-b6434d6d87e6" height="250" >
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/0da47c99-8e7f-4c56-a4d8-c379ebd44dc6" height="250" >
+
+
+# Nebula Screen
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/82cf1de0-2514-4e2e-8ec0-fedd37d1fe8f" height="250" >
+
+## Nebulas
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/faad2d1a-26ef-4749-9edf-c53ad586ad6a" height="250" >
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/8c43640f-5a60-4812-a02d-68a3addd84d0" height="250" >
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/5c22d411-b76f-4c92-bac3-14f881bc1e02" height="250" >
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/9ebd0aa2-5bf6-4d9d-b05e-2bf2ab097a1a" height="250" >
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/799712f7-54d3-4f99-99da-9526ca493869" height="250" >
+
+
+# Star Screen
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/04fbab7f-3370-4110-b214-17174c898a16" height="250" >
+
+## Stars
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/86964d3f-c9d3-4906-b22d-a1b716d16a07" height="250" >
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/073f57f3-6ae0-4ce8-8d85-9ee113f29b46" height="250" >
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/bd133b7a-f529-4c9f-950f-4f7f707d4743" height="250" >
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/bb50c589-0fc1-4a88-b4c2-d591dd26c701" height="250" >
+<img src="https://github.com/mehmetalicinar34/finalProjesi/assets/148943555/314c79a5-12f3-4b9b-9d09-db156ce66ca6" height="250" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
